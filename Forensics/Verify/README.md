@@ -8,7 +8,7 @@ People keep trying to trick my players with imitation flags. I want to make sure
 
 Additional details will be available after launching your challenge instance.
 
-## Resolucion
+## Resolución
 Extraemos el contenido del archivo comprimido:
 
 ´´´bash
@@ -29,7 +29,7 @@ El contenido de checksum.txt es el siguiente:
 
 467a10447deb3d4e17634cacc2a68ba6c2bb62a6637dad9145ea673bf0be5e02
 
-Y el de de 'decrypt.sh':
+Y el de 'decrypt.sh':
 
 ```bash
 #!/bin/bash
