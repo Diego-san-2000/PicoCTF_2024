@@ -9,9 +9,9 @@ What was I last working on? I remember writing a note to help me remember... You
 ## Resolución
 Extraemos el contenido del archivo comprimido:
 
-´´´bash
+```bash
 unzip challenge.zip
-´´´
+```
 
 Se nos creará la carpeta 'drop-in' con el siguiente contenido:
 
