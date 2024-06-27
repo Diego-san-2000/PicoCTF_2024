@@ -11,9 +11,9 @@ Additional details will be available after launching your challenge instance.
 ## Resolución
 Extraemos el contenido del archivo comprimido:
 
-´´´bash
+```bash
 unzip challenge.zip
-´´´
+```
 
 Se nos creará la estructura de carpetas 'home/ctf-player/drop-in' con el siguiente contenido:
 
