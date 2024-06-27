@@ -13,6 +13,8 @@ Nos tenmdremos que conectar al servidor por SSH con los datos que nos han propor
 ssh ctf-player@titan.picoctf.net -p 56944
 ```
 
+La estructura es usuario@servidor -p puerto
+
 Al establecer la conexión nos pedirá la contraseña:
 
 ![Consola](img/1.png)
