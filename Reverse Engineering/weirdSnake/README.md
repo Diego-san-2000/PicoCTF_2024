@@ -195,4 +195,4 @@ El resultado de ejecutar el código es:
 
 ![Output](img/2.png)
 
-Obteniendo así la flag: 'picoCTF{N0t_sO_coNfus1ng_sn@ke_30a13a97}'.
+Obteniendo así la flag: 'picoCTF{N0t_sO_coNfus1ng_sn@ke_7f44f566}'.
