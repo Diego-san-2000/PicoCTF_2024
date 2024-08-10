@@ -47,7 +47,7 @@ PicoCTF es una competición anual que desafía a los participantes a resolver pr
 | packer                    | Reverse Engineering    | Medium     | ✅        |
 | Mob psycho                | Forensics              | Medium     | ✅        |
 | FactCheck                 | Reverse Engineering    | Medium     | ✅        |
-| endianness-v2             | Forensics              | Medium     | ❌        |
+| endianness-v2             | Forensics              | Medium     | ✅        |
 | Dear Diary                | Forensics              | Medium     | ✅        |
 | Custom encryption         | Cryptography           | Medium     | ❌        |
 | Classic Crackme 0x100     | Reverse Engineering    | Medium     | ❌        |
