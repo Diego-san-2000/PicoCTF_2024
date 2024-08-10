@@ -10,9 +10,9 @@ Additional details will be available after launching your challenge instance.
 Para poder resolver el CTF, primero tenemos que entender cómo funciona el algoritmo RSA:
 
 - C = M^e mod n
-- - C es el texto cifrado
-- - M es el Mensaje a cifrar
-- - e es el exponente, normalmente 65537
+- - C es el texto cifrado.
+- - M es el Mensaje a cifrar.
+- - e es el exponente, normalmente 65537.
 - - n es p * q, la multiplicación de las claves pública y privada.
 
 Al lanzar la instancia, podremos conectarnos a un servidor que sirve para cifrar y descifrar con este algoritmo, pero no podremos introducir directamente la contraseña:
@@ -22,10 +22,10 @@ Al lanzar la instancia, podremos conectarnos a un servidor que sirve para cifrar
 Podemos, sin embargo, usar una propiedad de este cifrado para realizar un "ataque de texto cifrado multiplicativo":
 
 - C1 × C2 mod n = (M1 × M2)^e
-- - C1 es el texto cifrado que recibimos
-- - C2 es la contraseña cifrada
-- - M1 es el texto plano que enviamos
-- - M2 es la contraseña que queremos obtener
+- - C1 es el texto cifrado que recibimos.
+- - C2 es la contraseña cifrada.
+- - M1 es el texto plano que enviamos.
+- - M2 es la contraseña que queremos obtener.
 
 Al descifrar el producto (M1 × M2)^e, se obtiene (M1 × M2), por lo que es cuestión de deshacer la multiplicación y formatear la salida:
 
