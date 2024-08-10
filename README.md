@@ -43,7 +43,7 @@ PicoCTF es una competición anual que desafía a los participantes a resolver pr
 | WinAntiDbg0x200           | Reverse Engineering    | Medium     | ✅        |
 | WinAntiDbg0x100           | Reverse Engineering    | Medium     | ✅        |
 | weirdSnake                | Reverse Engineering    | Medium     | ✅        |
-| rsa_oracle                | Cryptography           | Medium     | ❌        |
+| rsa_oracle                | Cryptography           | Medium     | ✅        |
 | packer                    | Reverse Engineering    | Medium     | ✅        |
 | Mob psycho                | Forensics              | Medium     | ✅        |
 | FactCheck                 | Reverse Engineering    | Medium     | ✅        |
